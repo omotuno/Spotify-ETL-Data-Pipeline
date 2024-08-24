@@ -14,7 +14,7 @@ This project demonstrates a data pipeline built on AWS to automate the extractio
 
 ## Project Architecture
 
-![Project Architecture Diagram](https://github.com/omotuno/Spotify-ETL-Data-Pipeline/blob/main/Spotify%20ETL%20Data%20Pipeline%20Archutecture.drawio.html)
+![Project Architecture Diagram]("https://github.com/omotuno/Spotify-ETL-Data-Pipeline/blob/main/Spotify%20ETL%20Data%20Pipeline%20Archutecture.drawio.html")
 
 
 The architecture diagram above represents the end-to-end data pipeline. Below is a step-by-step explanation of each component and how they integrate into the overall architecture:
