@@ -58,6 +58,8 @@ The architecture diagram above represents the end-to-end data pipeline. Below is
 
 ### Data Visualization in Tableau
 
+
+
 1. **Export Data from Athena**:
 
    - Use Amazon Athena to run SQL queries on the data stored in S3.
@@ -69,6 +71,7 @@ The architecture diagram above represents the end-to-end data pipeline. Below is
 3. **Analyze and Share**:
 
    - Use Tableau to analyze the data and share the insights.
+   - The link to the dashboard is https://public.tableau.com/app/profile/olusegun.omotunde/viz/SpotifyTop100SongsinNigeria/Dashboard1
 
 ## Getting Started
 
