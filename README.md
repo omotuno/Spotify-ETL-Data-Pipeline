@@ -82,7 +82,7 @@ The architecture diagram above represents the end-to-end data pipeline. Below is
   - This can be done in the AWS Lambda console under the "Configuration" tab, in the "Environment variables" section.
 - **AWS Account**: You need an AWS account with access to services such as Lambda, S3, Glue, and Athena.
 - **IAM Roles**: Ensure that the IAM roles associated with your Lambda functions have the necessary permissions to access S3, Glue, and Athena.
-- **Python 3.x**: Installed locally for developing and testing the Lambda functions.
+- **Python 3.12**: Installed locally for developing and testing the Lambda functions.
 - **Boto3 Library**: Install the Boto3 library (AWS SDK for Python) using pip:
 
   ```bash
