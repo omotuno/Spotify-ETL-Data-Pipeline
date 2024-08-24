@@ -140,7 +140,7 @@ Feel free to fork this repository and submit pull requests. Please ensure any ne
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/omotuno/Spotify-ETL-Data-Pipeline/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
